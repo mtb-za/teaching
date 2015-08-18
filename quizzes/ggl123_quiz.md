@@ -21,3 +21,27 @@ Erosion, Transport, Weathering, Rivers
 10. What is the major distinguishing feature of ephemeral (temporary) and perennial (permanent) rivers? This governs the presence or absence of water?
 
 11. Explain why the grain-size of aeolian (wind) sediments tends to be very even, compared to rivers.
+
+12. Explain why the zone of highest velocity in a river is not always the centre of the river.
+
+13. What governs the presence or absence of suspended loads in a river?
+
+14. Explain why alluvial fans and deltas are similar, and what those similarities are.
+
+15. Explain the development of meandering streams, in particular how the grain-size in a point bar changes vertically.
+
+16. How can stream piracy affect the people living downstream of a captured stream?
+
+17. Explain some measures that can be taken to mitigate the damage caused by floods.
+
+18. Contrast slumping and debris flows.
+
+19. What failure surfaces are likely in a mass-movement.
+
+20. What controls the rate at which chemical weathering affects a particular mineral? (Assume an acidic  fluid.)
+
+21. Explain how the thickness of a soil can be linked to a) climate of the area soil is forming in, b) age of soil formation.
+
+22. How does latitude affect the thickness of the various soil layers?
+
+23. What are the characteristics of a mature sediment, and what drives the development of these characteristics?
