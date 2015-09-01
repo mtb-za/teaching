@@ -45,3 +45,13 @@ Erosion, Transport, Weathering, Rivers
 22. How does latitude affect the thickness of the various soil layers?
 
 23. What are the characteristics of a mature sediment, and what drives the development of these characteristics?
+
+## Groundwater
+
+1. How can the cone of depression formed during water extraction cause water-quality problems in near-coastals boreholes?
+
+2. What are some of the factors that can affect borehole yield in a particular area?
+
+3. Why are artesian aquifers generally easier to extract water from than non-artesian aquifers?
+
+4. How do permeability and porosity differ in regards to groundwater movement in aquifers?
