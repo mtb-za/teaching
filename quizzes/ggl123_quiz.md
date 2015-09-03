@@ -55,3 +55,11 @@ Erosion, Transport, Weathering, Rivers
 3. Why are artesian aquifers generally easier to extract water from than non-artesian aquifers?
 
 4. How do permeability and porosity differ in regards to groundwater movement in aquifers?
+
+5. How would remediation of a point source of contamination differ to remediation of a wide-area contamination?
+
+6. Aside from insufficient water to irrigate crops or similar human uses, what physical effects can loss of groundwater in an area lead to?
+
+7. Groundwater quality is linked to the chemistry of the groundwater. Explain the link between the geology of an aquifer and groundwater chemistry.
+
+8. Explain the link between the topography of an area and the level of the water table.
