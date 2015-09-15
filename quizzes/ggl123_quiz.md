@@ -63,3 +63,21 @@ Erosion, Transport, Weathering, Rivers
 7. Groundwater quality is linked to the chemistry of the groundwater. Explain the link between the geology of an aquifer and groundwater chemistry.
 
 8. Explain the link between the topography of an area and the level of the water table.
+
+## Oceans
+
+1. Explain the role of oceans in the movement of heat on Earth.
+
+2. Explain the most important cause of ocean waves.
+
+3. Obstructions can cause waves to refract. How does this concentrate wave energy on parts of the coast behind these obstructions?
+
+4. Waves play an important role in moving sediment. Explain how longshore drift moves sediments parallel to the coast.
+
+5. How can longshore drift be prevented or slowed?
+
+6. Swash and backwash can also move sediment. Explain how the grading along a beach changes from seawards to shorewards as a result of these processes.
+
+7. What are the factors that govern the size of breaking waves close to shore?
+
+8. Why are there two low tides and two high tides a day?
