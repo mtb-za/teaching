@@ -1,17 +1,24 @@
-Geological Histories
-Order that things happened.
-    Deposited sediment
-        Conglomerate
-        Sandstone
-        Clay-/siltstone
-    Folding
-    Unconformity
-        Limestone
-    Tilting
-    Fault
-        Limestone
-        Dolerite
-    Fault
+# Geological Histories
+
+Worked example from class.
+
+## Order that things happened.
+1. Deposited sediment
+    * Conglomerate
+    * Sandstone
+    * Clay-/siltstone
+2. Folding
+3. Unconformity
+4. Deposited sediment
+    * Limestone
+5. Tilting
+6. Fault
+    * Limestone
+    * Dolerite
+7. Fault
+8. Erosion to present surface
+
+## Geological History
 
 The oldest sediment in the area is a conglomerate. This is a coarse-grained sedimentary rock which implies that the depositional environment had very high energy. This was followed by 200m of sandstone, which is also a clastic sedimentary rock, but with finer grain sizes, indicating that the energy of deposition had dropped. The last rock horizon in this unit is a fine-grained sedimentary rock, either clay- or siltstone. The shale seems to be much thicker than the preceding layers, being 700m thick. This shows that the energy of deposition dropped over time, from coarse units at the base to increasingly finer units. These rocks were then lithified.
 
