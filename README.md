@@ -2,5 +2,9 @@ A collection of simple resources I have used for my teaching within the Departme
 
 ### Quizzes:
 * Sets of questions. These usually have a high degree of assumed knowledge, despite their apparent simplicity.
+
 ### Examples:
 * Various examples of thing. Currently contains some geological histories that were written for some of the maps (21, 29, 31) used in practicals from Bennison, G. M., Olver, P. A., & Moseley, K. A. (2013). _An introduction to geological structures and maps_. 8th Ed. Routledge.
+
+### Presentations
+* Assorted presentations, usually pre-prac lectures explaining the basic concepts that need to be understood for the practical. The pracs in the first and third terms use Bennison, G. M., Olver, P. A., & Moseley, K. A. (2013). _An introduction to geological structures and maps_. 8th Ed. Routledge as the prescribed text.
