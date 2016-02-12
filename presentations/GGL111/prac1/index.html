@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>The Earth is See-Through</title>
+
+		<meta name="description" content="First Practical">
+		<meta name="author" content="Martin Bentley">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/blood.css" id="theme">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h2>GGLV111 / GGLV1X1</h2>
+					<h3>Practical 1</h3>
+					<h4>Introduction to Geological Mapping</h4>
+					<p>
+						<small>
+							Created by <a href="http://github.com/mtb-za">Martin Bentley</a> / <a href="http://twitter.com/astonsplat">@astonsplat</a><br/>
+							s214382818@nmmu.ac.za
+						</small>
+					</p>
+					<p>
+						<small>12 February 2016</small>
+					</p>
+				</section>
+
+				<section>
+					<section>
+						<h3>Basic Rock Types</h3>
+						<ul>
+							<li class="fragment">Sedimentary</li>
+							<ul>
+								<li class="fragment">Bits of other rocks which are eventually cemented together</li>
+								<li class="fragment">Moved by rivers, glaciers, oceans, wind &c</li>
+							</ul>
+							<li class="fragment">Igneous</li>
+							<ul>
+								<li class="fragment">Rocks that were liquid (and hot) and cooled down.</li>
+								<li class="fragment">Either <em>extrusive</em> or <em>intrusive</em></li>
+							</ul>
+							<li class="fragment">Metamorphic</li>
+							<ul>
+								<li class="fragment">Rocks that started as other rocks and have been altered by heat and/or pressure</li>
+							</ul>
+						</ul>
+					</section>
+				</section>
+
+				<section>
+					<section>
+							<h3>Geological Maps</h3>
+							<p class="fragment">Show lithology (type of rock)</p>
+							<p class="fragment">Always have a legend (somewhere)</p>
+							<p class="fragment">Legends go from oldest to youngest rocks</p>
+						</section>
+						<section>
+							<figure>
+								<img src="img/basic_map.gif"/><figcaption>Simplified geological map of South Africa (Council for Geoscience)</figcaption>
+							</figure>
+						</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Geological Profiles</h3>
+						<p class="fragment">Are a side view of a vertical 2D plane</p>
+						<p class="fragment">Show the topography at surface</p>
+						<p class="fragment">Show the <em>inferred</em> geology below surface</p>
+					</section>
+					<section>
+						<figure>
+							<img src="img/cross_section.jpg"/><figcaption>Geological profile of part of Wyoming (Geology Café: http://geologycafe.com/class/chapter2.html)</figcaption>
+						</figure>
+					</section>
+				</section>
+
+				<section>
+					<section>
+						<h3>Creating a geological cross section (1/3)</h3>
+						<p class="fragment">1. Create a topographic profile:</p>
+						<ul>
+							<li class="fragment">Record the <em>contours</em> along your profile</li>
+							<li class="fragment">Place these points on the profile</li>
+							<li class="fragment">Link the points together smoothly</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Creating a geological cross section (2/3)</h3>
+						<p class="fragment">2. Determine the underlying geology:</p>
+						<ul>
+						<li class="fragment">Record the <em>contacts</em> along your profile</li>
+						<li class="fragment">Place these points on the profile</li>
+						<li class="fragment">Link the points that are of the same contact</li>
+						<li class="fragment">Recommendation: Do each contact to completion, then do the next one</li>
+					</section>
+					<section>
+						<h3>Creating a geological cross section (3/3)</h3>
+						<p class="fragment">3. Add other estimates:</p>
+						<ul>
+						<li class="fragment">Add a title eg: "Geological Cross-Section of Map 3"</li>
+						<li class="fragment">Include the vertical and horizontal scales</li>
+						<li class="fragment">Include a geological legend</li>
+						<li class="fragment">Include markers for which end of the profile is which: E, W, X, Y (whatever)</li>
+					</section>
+				</section>
+
+				<section>
+					<figure>
+						<img src="img/legend.jpg" height="600px"/><figcaption>Common geological symbols (Bennison et al, 2013)</figcaption>
+					</figure>
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				slideNumber: true,
+
+				transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
