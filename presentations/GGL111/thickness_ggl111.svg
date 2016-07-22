@@ -17,7 +17,7 @@
    inkscape:export-filename="C:\Users\s214382818\Desktop\teaching\presentations\thickness_ggl113.png"
    inkscape:export-xdpi="180.04402"
    inkscape:export-ydpi="180.04402"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="thickness_ggl111.svg">
   <defs
      id="defs4">
     <marker
@@ -140,11 +140,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62811075"
-     inkscape:cx="622.91844"
-     inkscape:cy="152.93225"
+     inkscape:zoom="1.2562215"
+     inkscape:cx="191.33229"
+     inkscape:cy="288.05554"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -153,8 +153,8 @@
      fit-margin-right="10"
      fit-margin-bottom="10"
      inkscape:window-width="1600"
-     inkscape:window-height="848"
-     inkscape:window-x="1592"
+     inkscape:window-height="878"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -175,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -507,39 +507,6 @@
        d="m 502.84809,310.05813 c -2.24842,-3.83238 -3.43377,-8.1952 -3.43377,-12.63845 l 24.97569,0 z"
        sodipodi:start="2.6110168"
        sodipodi:end="3.1415927" />
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="862.23853"
-       y="323.7869"
-       id="text3838-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3840-9"
-         x="862.23853"
-         y="323.7869">C</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="905.22461"
-       y="400.20654"
-       id="text3842-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3844-6"
-         x="905.22461"
-         y="400.20654">B</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="959.35516"
-       y="490.95486"
-       id="text3846-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3848-3"
-         x="959.35516"
-         y="490.95486">A</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 847.58937,260.41691 c 0.8248,-47.75716 11.95273,-92.22011 51.62388,-133.01466 8.70811,-8.95471 0.77925,-34.056294 12.43091,-42.653524 16.57339,-11.55416 51.88071,3.82532 102.28394,1.08599 93.3173,-2.4678 88.6047,-7.80037 94.9947,-63.85275"
@@ -809,6 +776,72 @@
        id="path4013-1-0-8-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="523.03101"
+       y="736.58746"
+       id="text3183"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3185"
+         x="523.03101"
+         y="736.58746">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="461.83932"
+       y="873.34906"
+       id="text3183-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3185-8"
+         x="461.83932"
+         y="873.34906">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-86.803658"
+       y="376.42953"
+       id="text3183-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3185-4"
+         x="-86.803658"
+         y="376.42953">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-145.66862"
+       y="513.41229"
+       id="text3183-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3185-5"
+         x="-145.66862"
+         y="513.41229">Contact</tspan></text>
+    <path
+       style="fill:none;stroke:#784421;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.4, 2.8;stroke-dashoffset:0"
+       d="m 19.104911,321.80365 c 66.171068,2.87626 107.527169,18.32342 174.332309,-22.28907 66.89213,-39.63449 194.96405,-43.52491 257.12027,-41.39397"
+       id="path3226"
+       inkscape:connector-curvature="0"
+       transform="translate(57.095467,-3.1126976)"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#784421;fill-opacity:1;stroke:none;font-family:Sans"
+       x="434.41745"
+       y="251.02773"
+       id="text4055"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4057"
+         x="434.41745"
+         y="251.02773">Land Surface</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -841,14 +874,14 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="150.8492"
-       y="323.19141"
+       x="256.72226"
+       y="501.50391"
        id="text3838"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3840"
-         x="150.8492"
-         y="323.19141">C</tspan></text>
+         x="256.72226"
+         y="501.50391">C</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -863,14 +896,47 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="247.96582"
-       y="490.35938"
+       x="111.84333"
+       y="336.72403"
        id="text3846"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3848"
-         x="247.96582"
-         y="490.35938">A</tspan></text>
+         x="111.84333"
+         y="336.72403">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="973.90961"
+       y="506.09378"
+       id="text3838-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3840-7"
+         x="973.90961"
+         y="506.09378">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="911.02258"
+       y="404.20096"
+       id="text3842-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3844-0"
+         x="911.02258"
+         y="404.20096">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="848.13556"
+       y="334.1496"
+       id="text3846-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3848-4"
+         x="848.13556"
+         y="334.1496">A</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
